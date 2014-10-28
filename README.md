@@ -2,6 +2,8 @@
 
 This is a basic template for your child theme, setting the stage for you to be able to build your own child theme, enabling you to make changes to a theme on your site without risking losing your changes when you need to update your theme.
 
+This theme is maintained on [GitHub](https://github.com/theukedge/child-theme-template).
+
 ## How to use this theme
 
 There are very elaborate instructions on my "[Putting Things Where They Belong](http://www.doitwithwp.com/putting-things-where-they-belong/)" tutorial, but in short:
