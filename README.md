@@ -6,7 +6,7 @@ This theme is maintained on [GitHub](https://github.com/theukedge/child-theme-te
 
 ## How to use this theme
 
-There are very elaborate instructions on my "[Putting Things Where They Belong](http://www.doitwithwp.com/putting-things-where-they-belong/)" tutorial, but in short:
+There are very elaborate instructions on my "[Putting Things Where They Belong](http://www.doitwithwp.com/putting-things-where-they-belong/?utm_source=github&utm_medium=plugin&utm_campaign=content)" tutorial, but in short:
 
 * Open style.css
 * Add the folder name of the parent theme to the "template" field
@@ -17,7 +17,7 @@ At first, nothing will look any different, because there are no customisations. 
 
 ## How to develop this theme correctly
 
-If you're going to do something, do it right. Read over my words of wisdom on how to build out your theme in [Putting Things Where They Belong](http://www.doitwithwp.com/putting-things-where-they-belong/)
+If you're going to do something, do it right. Read over my words of wisdom on how to build out your theme in [Putting Things Where They Belong](http://www.doitwithwp.com/putting-things-where-they-belong/?utm_source=github&utm_medium=plugin&utm_campaign=content)
 
 ## I need help!
 
