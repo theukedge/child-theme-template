@@ -16,3 +16,7 @@ At first, nothing will look any different, because there are no customisations. 
 ## How to develop this theme correctly
 
 If you're going to do something, do it right. Read over my words of wisdom on how to build out your theme in [Putting Things Where They Belong](http://www.doitwithwp.com/putting-things-where-they-belong/)
+
+## I need help!
+
+If you want some help with using this theme, or there's something wrong with it, please [open an issue](https://github.com/theukedge/child-theme-template/issues/new) or [get in touch](https://www.theukedge.com/contact/?utm_source=wordpress.org&utm_medium=plugin&utm_campaign=contact) with me directly.
