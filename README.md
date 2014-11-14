@@ -1,4 +1,5 @@
 # Child Theme Template
+[![Build Status](https://travis-ci.org/theukedge/child-theme-template.svg?branch=master)](https://travis-ci.org/theukedge/child-theme-template) ![License](https://img.shields.io/badge/license-GPL--2.0%2B-green.svg) [![GitHub issues](http://img.shields.io/github/issues/theukedge/child-theme-template.svg)](https://github.com/theukedge/child-theme-template/issues) [![GitHub tag](http://img.shields.io/github/tag/theukedge/child-theme-template.svg)](https://github.com/theukedge/child-theme-template/tags)
 
 This is a basic template for your child theme, setting the stage for you to be able to build your own child theme, enabling you to make changes to a theme on your site without risking losing your changes when you need to update your theme.
 
