@@ -1,6 +1,6 @@
 <?php
 
-// For more information on how to use this template, go to http://www.doitwithwp.com/putting-things-where-they-belong/
+// For more information on how to use this template, go to https://www.doitwithwp.com/putting-things-where-they-belong/
 
 function load_parent_theme_css() {
     wp_enqueue_style( 'parent-theme', get_template_directory_uri() . '/style.css' );
